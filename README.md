@@ -1,10 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=William+dos+Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00875f&height=150&section=header&text=William+dos+Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!,+you+can+call+me+William+dos+Santos;É+um+prazer+recebê-lo;Eu+sou+desenvolvedor+Front+end;Deixe+suas+estrelinhas+nos+repositórios!+VALEU!)
-
-
-### Bem-Vindo (a) ao meu Perfil 👋
-
 
 
 <h3 align="left">🛠 Tech Stack</h3>
